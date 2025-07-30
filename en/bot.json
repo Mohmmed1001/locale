@@ -517,5 +517,6 @@
 	"thread_old_archive_duration": "Old Thread Archive Duration",
 	"thread_new_archive_duration": "New Thread Archive Duration",
 	"logs_thread_deleted": ":house: **Thread Deleted: `{0}`**",
-	"logs_thread_updated": ":house: **Thread Updated: `{0}`**"
+
+"logs_thread_updated": "🔧 **Thread Modified:** `{0}`"
 } 
